@@ -1,0 +1,24 @@
+2Jun23
+I learned how to install and begin to use Vim.
+
+First start by creating a text file
+	Create a text file - vim xxxx.txt
+
+Next notice that you are in a new editor. There are a bunch of modes but there are four main ones and 3 that I kind of understand.
+
+The command mode which you enter when you type escape
+
+The insert mode which you enter after pressing i (must already be in command mode)
+
+The command line mode which you enter after pressing : (must already be in command mode)
+
+and the Visual mode which I havent spent time with, v (must already be in command mode)
+
+to save go into command line mode and press w
+
+to quit go into command line mode and press q (can do together as wq)
+
+also remember that you can compile code using the following command:
+g++ -std=c++11 yourcode.cpp -o main
+
+
